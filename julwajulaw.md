@@ -5,4 +5,5 @@ permalink: /julwajulaw/
 ---
 
 | तारीख | लिंक |
-| १२ ऑगस्ट २०२४ | https://connectionsplus.io/game/CKWkHA |
+|:----:|:-------:|
+| १२ ऑगस्ट २०२४ | [https://connectionsplus.io/game/CKWkHA](https://connectionsplus.io/game/CKWkHA)|
