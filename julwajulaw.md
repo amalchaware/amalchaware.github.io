@@ -15,6 +15,7 @@ permalink: /julwajulaw/
 
 | तारीख | लिंक |
 |:----:|:-------:|
+| २० ऑगस्ट २०२४ | [https://connectionsplus.io/game/Wo1WBB](https://connectionsplus.io/game/Wo1WBB)|
 | १९ ऑगस्ट २०२४ | [https://connectionsplus.io/game/2JGJdf](https://connectionsplus.io/game/2JGJdf)|
 | १६ ऑगस्ट २०२४ | [https://connectionsplus.io/game/ggDDHj](https://connectionsplus.io/game/ggDDHj)|
 | १५ ऑगस्ट २०२४ | [https://connectionsplus.io/game/AsheEv](https://connectionsplus.io/game/AsheEv)|
